@@ -8,4 +8,4 @@ Atividade 2: Usando a plataforma Excel para resolução de questões, para obter
 
 Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416468/Atividade.2.-.Banco.de.dados.xlsx)
 PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
-![Uploading image.png…]()
+<img width="573" height="752" alt="image" src="https://github.com/user-attachments/assets/8cc805cc-9055-452a-b91c-ce0e133b7429" />
