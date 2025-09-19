@@ -6,4 +6,4 @@ https://github.com/annacarolp/Fontes-de-dados/blob/main/Apresentac%CC%A7a%CC%83o
 
 Atividade 2: Usando a plataforma Excel para resolução de questões, para obter conhecimento sobre fórmulas. 
 [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416468/Atividade.2.-.Banco.de.dados.xlsx)
-PDF para melhor entendimento das fórmulas utilizadas: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
+[Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
