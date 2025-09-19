@@ -5,5 +5,5 @@ Trabalhos referentes a matéria de Informática do primeiro semestre do curso de
 https://github.com/annacarolp/Fontes-de-dados/blob/main/Apresentac%CC%A7a%CC%83o%20GPI-%20Banco%20de%20dados.pdf
 
 Atividade 2: Usando a plataforma Excel para resolução de questões, para obter conhecimento sobre fórmulas. 
-[Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416468/Atividade.2.-.Banco.de.dados.xlsx)
-[Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
+Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416468/Atividade.2.-.Banco.de.dados.xlsx)
+PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
