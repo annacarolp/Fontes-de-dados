@@ -9,5 +9,6 @@ Atividade 2: Usando a plataforma Excel para resolução de questões, para obter
 Excel: [Atividade 2 - Banco de dados .xlsx](https://github.com/user-attachments/files/22416468/Atividade.2.-.Banco.de.dados.xlsx)
 PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachments/files/22416507/Banco_de_dados_explicacao_formulas.pdf)
 <img width="573" height="752" alt="image" src="https://github.com/user-attachments/assets/8cc805cc-9055-452a-b91c-ce0e133b7429" />
+
 Atividade: Instrodução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
 <img width="977" height="735" alt="image" src="https://github.com/user-attachments/assets/ecdbd44b-9831-455d-95af-8f4e3a9d13c4" />
