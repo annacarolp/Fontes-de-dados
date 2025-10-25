@@ -12,3 +12,6 @@ PDF: [Banco_de_dados_explicacao_formulas.pdf](https://github.com/user-attachment
 
 Atividade: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
 <img width="977" height="735" alt="image" src="https://github.com/user-attachments/assets/ecdbd44b-9831-455d-95af-8f4e3a9d13c4" />
+
+Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
+<img width="1015" height="362" alt="image" src="https://github.com/user-attachments/assets/5f7866f2-2b68-4735-81fa-98e36bca88ce" />
