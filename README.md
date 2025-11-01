@@ -15,3 +15,5 @@ Atividade: Introdução a extração de dados do Comex stat e confecção de dad
 
 Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
 <img width="1015" height="362" alt="image" src="https://github.com/user-attachments/assets/5f7866f2-2b68-4735-81fa-98e36bca88ce" />
+Análise de progressão e regressão de dados usando as ferramentas Excel, Google Colab e inteligência artificial para criação de gráficos para visualização dos dados. 
+<img width="976" height="561" alt="image" src="https://github.com/user-attachments/assets/e845fb9a-a43a-404e-acb6-dabaa42430d5" />
