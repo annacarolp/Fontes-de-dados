@@ -17,9 +17,10 @@ Atividade 4: Introdução a extração de dados do Comex stat e confecção de d
 <img width="1015" height="362" alt="image" src="https://github.com/user-attachments/assets/5f7866f2-2b68-4735-81fa-98e36bca88ce" />
 Análise de progressão e regressão de dados usando as ferramentas Excel, Google Colab e inteligência artificial afim de criar gráficos para visualização dos dados. 
 <img width="976" height="561" alt="image" src="https://github.com/user-attachments/assets/e845fb9a-a43a-404e-acb6-dabaa42430d5" />
-Atividade 5: Elaboração de regressão linear por meio de Excel sobre 
+Atividade 5: Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
 <img width="808" height="753" alt="image" src="https://github.com/user-attachments/assets/6405d333-bcc2-45ac-8b3b-49b2143a670b" />
 
-Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfio e alterar cores e formas.
+Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas.
+Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período detrminado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc. 
 <img width="952" height="555" alt="image" src="https://github.com/user-attachments/assets/c470adb4-1f09-43a8-9e1b-cdc5a248b7e1" />
 
