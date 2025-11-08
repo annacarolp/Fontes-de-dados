@@ -22,5 +22,7 @@ Atividade 5: Elaboração de regressão linear por meio de Excel dos dados sobre
 
 Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas.
 Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período detrminado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc. 
+<img width="1044" height="494" alt="image" src="https://github.com/user-attachments/assets/6bc8f574-e3d7-4082-ba27-c6ff60e4d9d0" />
+
 <img width="952" height="555" alt="image" src="https://github.com/user-attachments/assets/c470adb4-1f09-43a8-9e1b-cdc5a248b7e1" />
 
