@@ -19,4 +19,6 @@ Análise de progressão e regressão de dados usando as ferramentas Excel, Googl
 <img width="976" height="561" alt="image" src="https://github.com/user-attachments/assets/e845fb9a-a43a-404e-acb6-dabaa42430d5" />
 Atividade 5: Elaboração de regressão linear por meio de Excel
 <img width="808" height="753" alt="image" src="https://github.com/user-attachments/assets/6405d333-bcc2-45ac-8b3b-49b2143a670b" />
+Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfio e alterar cores e formas.
+<img width="952" height="555" alt="image" src="https://github.com/user-attachments/assets/c470adb4-1f09-43a8-9e1b-cdc5a248b7e1" />
 
